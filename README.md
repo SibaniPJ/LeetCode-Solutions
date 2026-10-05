@@ -12,3 +12,4 @@ My solutions to LeetCode problems using Python, Pandas and SQL.
 | 2881 | Create a New Column  | [LeetCode](https://leetcode.com/problems/create-a-new-column)  |
 | 2882 | Drop Duplicate Rows  | [LeetCode](https://leetcode.com/problems/drop-duplicate-rows)  |
 | 2883 | Drop Missing Data | [LeetCode](https://leetcode.com/problems/drop-missing-data/) |
+| 2884 | Modify Columns | [LeetCode](https://leetcode.com/problems/modify-columns/) |
