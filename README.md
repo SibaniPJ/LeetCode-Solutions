@@ -14,3 +14,4 @@ My solutions to LeetCode problems using Python, Pandas and SQL.
 | 2883 | Drop Missing Data | [LeetCode](https://leetcode.com/problems/drop-missing-data/) |
 | 2884 | Modify Columns | [LeetCode](https://leetcode.com/problems/modify-columns/) |
 | 2885 | Rename Columns | [LeetCode](https://leetcode.com/problems/rename-columns/) |
+| 2886 | Change Data Type | [LeetCode](https://leetcode.com/problems/change-data-type/) |
