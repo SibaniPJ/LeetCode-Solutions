@@ -18,3 +18,4 @@ My solutions to LeetCode problems using Python, Pandas and SQL.
 | 2887 | Fill Missing Data | [LeetCode](https://leetcode.com/problems/fill-missing-data/) |
 | 2888 | Reshape Data: Concatenate | [LeetCode](https://leetcode.com/problems/reshape-data-concatenate/) |
 | 2889 | Reshape Data: Pivot | [LeetCode](https://leetcode.com/problems/reshape-data-pivot/) |
+| 2890 | Reshape Data: Melt | [LeetCode](https://leetcode.com/problems/reshape-data-melt/) |
